@@ -39,6 +39,20 @@ l=["Monday","Tuesday","Wednesday"]
 p=[1,2,3]
 
 
+#List Index : from 0 to n-1
+l[0]
+#result: 'Monday'
+
+#length of lists
+len(l) #this gives the number of elements in list l
+
+#List slicing 
+l=["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]
+
+l[3:5]
+#Result: 'Thursday','Friday'
+#The first one is included but the last one is excluded
+
 
 
 
