@@ -1,0 +1,6 @@
+
+#Python Tutorial from the official docs 
+https://docs.python.org/3/tutorial/
+
+#Numpy Tutotrial 
+https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
